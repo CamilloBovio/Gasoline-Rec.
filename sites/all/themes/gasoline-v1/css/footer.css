@@ -1,0 +1,37 @@
+* {
+	margin: 0;
+}
+html, body {
+	height: 100%;
+}
+#wrap {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -50px; /* the bottom margin is the negative value of the footer's height */
+}
+#push {
+clear: both;
+margin-bottom:40px;
+height: 80px; /* .push must be the same height as .footer */
+}
+
+#footer{
+text-align:center;
+padding-top:15px;
+width: 900px;
+margin: auto;
+border-top: 1px solid #ccc;
+}
+
+#footer p {
+color: #555;
+font-size: 11px;
+}
+
+/*
+
+Sticky Footer by Ryan Fait
+http://ryanfait.com/
+
+*/

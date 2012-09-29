@@ -1,0 +1,118 @@
+/*===============================================*/
+/*   
+     Name: hrgiulia.com
+     Date: 13/10/2011
+     style by: http://www.bcadsgn.com
+     version: 1.0
+     type: type.css
+*/   
+/*===============================================*/
+
+body {font-size: 62.5%;}
+html>body {font-size: 10px;}
+body {
+  /*color:#555;*/
+color: #fff;
+  font-family: arial, helvetica, sans-serif;
+  text-align: left;
+}
+
+/*Trip Advisor*/
+#tripAdvisor p{
+ font-style:oblique;
+ font-size: 14px;
+ margin-bottom: 50px;
+}
+#tripAdvisor span{
+ font-size: 16px;
+ float: right;
+}
+
+.pacchetto a{
+  color: #0054a6;
+  font-weight:bold;
+}
+
+/*strong*/
+
+
+/*headings*/
+h1 {
+  font-size: 32px; 
+  font-weight: bold; 
+  color: #555;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 13px;
+  line-height: 30px;
+  letter-spacing: -2px;
+} /*24px*/
+
+
+h2 {font-size: 24px; margin-bottom:5px;font-style:oblique;}
+h3 {font-size: 1.8em;line-height: 1em;margin-bottom: 1em;}              /*18px*/
+h4 {font-size: 1.5em;line-height: 1.2em;margin-bottom: 1.2em;}          /*15px*/
+h5 {font-size: 1.2em;line-height: 1.5em;margin-bottom: 1.5em;}          /*12px*/
+h6 {font-size: 1.2em;line-height: 1.5em;margin-bottom: 1.5em;}          /*12px*/
+
+/*paragraph*/
+p {font-size: 13px; margin-bottom: 12px;line-height:150%; color: #222;}
+p img.left  {float: left; margin: 0 1.5em 1.5em 0; }
+p img.right {float: right; margin: 0 0 1.5em 1.5em;}
+
+/* default links staus */
+
+
+a {
+  text-decoration: none; 
+  color: #999;
+}
+
+a:hover, a:focus, a:active {
+  text-decoration: none;
+}
+
+a.active {
+ color: #fff;
+ font-weight: bold; 
+}
+
+
+/*typographics elements*/
+blockquote {font-size: 1.2em;line-height: 1.5em;margin: 1.5em;}
+strong {font-weight: bold;}
+em,dfn {font-style: italic;}
+dfn {font-weight: bold;}
+sup, sub {line-height: 0;}
+abbr, acronym {border-bottom: 1px dotted #000;}
+address {font-style: italic;margin: 0 0 1.5em;}
+del {color:#000;}
+pre {margin: 1em 0;white-space: pre;}
+pre,code,tt {font: 1.2em 'andale mono', 'lucida console', monospace;line-height: 1.5em;}
+
+/*Lists*/
+li ul, li ol {margin:0 1.5em 0 0;}
+ul, ol {font-size: 1.2em;line-height: 1.5em;margin-bottom: 1.5em;}
+ul {list-style-type: disc;}
+ol {list-style-type: decimal;}
+dl {font-size: 1.2em;line-height: 1.5em;margin-bottom: 1.5em;}
+dl dt {font-weight: bold;}
+dd {margin-bottom: 1.5em;}
+ol ol, ul ul {font-size: 1.2em;}
+
+/*Tables*/
+th{
+font-weight: bold;
+color: #fff;
+vertical-align:middle;
+}
+td{
+height: 30px;
+vertical-align:middle;
+}
+
+/* Font size variant  classes
+-------------------------------------------------------------- */
+.small {font-size: 1em;line-height: 1.8em; margin: 0 0 1.8em 0;}
+.smaller {font-size: 0.8em;line-height: 2.25em; margin: 0 0 2.25em 0;}
+.large {font-size: 3.3em;line-height: 1.0909em; margin: 0 0 0.5455em 0;}
+.larger {font-size: 4.1em;line-height: 1.3171em; margin: 0 0 0.439em 0;}

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<!-- git web interface version 1.7.3.GIT, (C) 2005-2006, Kay Sievers <kay.sievers@vrfy.org>, Christian Gierke -->
+<!-- git core binaries version 1.7.4.1 -->
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+<meta name="generator" content="gitweb/1.7.3.GIT git/1.7.4.1"/>
+<meta name="robots" content="index, nofollow"/>
+<title>drupalcode.org Git - sandbox/iqbalnurhakim/1623992.git/blob - vegas.info</title>
+<base href="http://drupalcode.org" />
+<link rel="stylesheet" type="text/css" href="/gitweb.css"/>
+<link rel="stylesheet" type="text/css" href="/highlight.css"/>
+<link rel="alternate" title="sandbox/iqbalnurhakim/1623992.git - history of vegas.info on '7.x-1.x' - RSS feed" href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/rss/refs/heads/7.x-1.x?f=vegas.info" type="application/rss+xml" />
+<link rel="alternate" title="sandbox/iqbalnurhakim/1623992.git - history of vegas.info on '7.x-1.x' - RSS feed (no merges)" href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/rss/refs/heads/7.x-1.x?f=vegas.info;opt=--no-merges" type="application/rss+xml" />
+<link rel="alternate" title="sandbox/iqbalnurhakim/1623992.git - history of vegas.info on '7.x-1.x' - Atom feed" href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/atom/refs/heads/7.x-1.x?f=vegas.info;opt=--no-merges" type="application/atom+xml" />
+<link rel="alternate" title="sandbox/iqbalnurhakim/1623992.git - history of vegas.info on '7.x-1.x' - Atom feed (no merges)" href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/atom/refs/heads/7.x-1.x?f=vegas.info;opt=--no-merges" type="application/atom+xml" />
+<link rel="shortcut icon" href="/git-favicon.png" type="image/png" />
+</head>
+<body>
+<div class="page_header">
+<a title="git homepage" href="http://drupal.org/"><img src="/git-logo.png" width="72" height="27" alt="git" class="logo"/></a><a href="/">projects</a> / <a href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git">sandbox/iqbalnurhakim/1623992.git</a> / blob
+</div>
+<form method="get" action="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git" enctype="application/x-www-form-urlencoded">
+<div class="search">
+<input name="a" type="hidden" value="search" />
+<input name="h" type="hidden" value="refs/heads/7.x-1.x" />
+<select name="st" >
+<option selected="selected" value="commit">commit</option>
+<option value="grep">grep</option>
+<option value="author">author</option>
+<option value="committer">committer</option>
+<option value="pickaxe">pickaxe</option>
+</select><sup><a href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/search_help">?</a></sup> search:
+<input type="text" name="s"  />
+<span title="Extended regular expression"><label><input type="checkbox" name="sr" value="1" />re</label></span></div>
+</form>
+<div class="page_nav">
+<a href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git">summary</a> | <a href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/shortlog">shortlog</a> | <a href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/log">log</a> | <a href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/commit/refs/heads/7.x-1.x">commit</a> | <a href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/commitdiff/refs/heads/7.x-1.x">commitdiff</a> | <a href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/tree/refs/heads/7.x-1.x">tree</a><br/>
+<a href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/blame/refs/heads/7.x-1.x:/vegas.info">blame</a> | <a href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/history/refs/heads/7.x-1.x:/vegas.info">history</a> | <a href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/blob_plain/refs/heads/7.x-1.x:/vegas.info">raw</a> | <a href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/blob/HEAD:/vegas.info">HEAD</a><br/>
+</div>
+<div class="header">
+<a class="title" href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/commit/refs/heads/7.x-1.x">Fixed drupal standard codes</a>
+</div>
+<div class="page_path"><a title="tree root" href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/tree/refs/heads/7.x-1.x">[sandbox/iqbalnurhakim/1623992.git]</a> / <a title="vegas.info" href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/blob_plain/refs/heads/7.x-1.x:/vegas.info">vegas.info</a><br/></div>
+<div class="page_body">
+<div class="pre"><a id="l1" href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/blob/refs/heads/7.x-1.x:/vegas.info#l1" class="linenr">   1</a> name&nbsp;=&nbsp;Vegas</div>
+<div class="pre"><a id="l2" href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/blob/refs/heads/7.x-1.x:/vegas.info#l2" class="linenr">   2</a> description&nbsp;=&nbsp;provide&nbsp;user&nbsp;interface&nbsp;for&nbsp;jquery&nbsp;vegas</div>
+<div class="pre"><a id="l3" href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/blob/refs/heads/7.x-1.x:/vegas.info#l3" class="linenr">   3</a> </div>
+<div class="pre"><a id="l4" href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/blob/refs/heads/7.x-1.x:/vegas.info#l4" class="linenr">   4</a> core&nbsp;=&nbsp;7.x</div>
+<div class="pre"><a id="l5" href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/blob/refs/heads/7.x-1.x:/vegas.info#l5" class="linenr">   5</a> </div>
+<div class="pre"><a id="l6" href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/blob/refs/heads/7.x-1.x:/vegas.info#l6" class="linenr">   6</a> configure&nbsp;=&nbsp;admin/config/user-interface/vegas</div>
+<div class="pre"><a id="l7" href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/blob/refs/heads/7.x-1.x:/vegas.info#l7" class="linenr">   7</a> </div>
+<div class="pre"><a id="l8" href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/blob/refs/heads/7.x-1.x:/vegas.info#l8" class="linenr">   8</a> dependencies[]&nbsp;=&nbsp;libraries</div>
+</div><div class="page_footer">
+<div class="cachetime">Cache Last Updated: Sat Jul 14 18:38:51 2012 GMT</div>
+<!--
+	Full URL: |/sandbox/iqbalnurhakim/1623992.git/blob/refs/heads/7.x-1.x:/vegas.info?|
+	URL Hash: |11217ce83391927eb457e47064c41806|
+-->
+<div class="page_footer_text">For more information about this repository, visit the project page at http://drupal.org/sandbox/iqbalnurhakim/1623992</div>
+<a class="rss_logo" title="history of vegas.info on '7.x-1.x' RSS feed" href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/rss/refs/heads/7.x-1.x?f=vegas.info">RSS</a>
+<a class="rss_logo" title="history of vegas.info on '7.x-1.x' Atom feed" href="http://drupalcode.org/sandbox/iqbalnurhakim/1623992.git/atom/refs/heads/7.x-1.x?f=vegas.info">Atom</a>
+</div>
+<script type="text/javascript" src="/gitweb.js"></script>
+</body>
+</html>

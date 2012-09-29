@@ -1,0 +1,196 @@
+/*===============================================*/
+/*   
+     Name: hrgiulia.com
+     Date: 13/10/2011
+     style by: http://www.bcadsgn.com
+     version: 1.0
+     type: wrap.css
+*/   
+/*===============================================*/
+
+html, body {
+  height: 100%;
+}
+#topStrip{
+  height: 200px;
+  background: #603913;
+  z-index:10;
+  }
+#stripContent{
+  width: 960px;
+  margin: auto;
+  }
+#wrap{
+  width: 960px;
+  margin: auto;
+  background: url('../img/bg_wrap2.jpg');
+  background: #fff;
+  min-height: 100%;
+  overflow:hidden;
+  /*box-shadow:0px 0px 18px #000;*/
+  -moz-box-shadow:  0px  0px 18px #555;
+  -webkit-box-shadow:  0px  0px 18px #555;
+  box-shadow: 0px 0px 18px #555;
+}
+#slideShow{
+  margin-bottom: 35px;
+}
+#logo{
+  float:left;
+}
+#logo img {
+  margin-top:10px;
+  margin-left:20px;
+}
+#tripAdvisor{
+  height:200px;
+  padding: 15px; 
+  background: #fffbd7;
+  margin-bottom:20px;
+}
+
+#tripAdvisor img{
+margin-top:8px;
+
+}
+.tripTitle{
+  font-size:24;
+  font-style: oblique;
+}
+.titlePage{
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 10px;
+  font-size:24px;
+  letter-spacing: -2px;
+}
+
+#wrapContent{
+  padding: 10px;
+  margin-top:10px;
+}
+#content{
+  height: auto;
+  clear:both;
+}
+#menu{
+  width:300px;
+  height: auto;
+  float:left;
+}
+#subContent{
+  margin-right:30px;
+  float:right;
+  width: 600px;
+}
+
+/*SERVIZI*/
+.titoloServizio{
+  font-size: 13px;
+  font-weight:bold;
+  border-bottom:1px solid #ccc;
+  padding-bottom:5px;
+  margin-bottom:5px;
+}
+.imgServizio{
+  float: left;
+  padding-right:10px;
+}
+.servizio{
+  margin-bottom:20px;
+}
+.servizio p{
+  vertical-align: middle;
+}
+.descrizioneServizio{
+  margin-top:10px;
+}
+
+/*CONTATTI HOTEL*/
+#contattiHotel{
+  width:268px;
+  float:right;
+  text-align:right;
+  border-top:1px solid #603913;
+  margin-top:30px;
+  padding-top: 10px;
+}
+
+/*WEB FORM SETTINGS*/
+input{
+  border: 1px solid #f4e1b6;
+  padding: 8px;
+  font-family: Arial;
+  font-style: oblique;
+  background: #f4e1b6;
+}
+input:focus{
+  color: #fff;
+  background:#603913;
+  border: 1px solid #603913;
+}
+
+textarea{
+  font-family: Arial;
+  font-style: oblique;
+  padding:8px;
+  background: #f4e1b6;
+  border: 1px solid #f4e1b6;
+}
+textarea:focus{
+  color: #fff;
+  background:#603913;
+  border: 1px solid #603913;
+}
+
+label{
+  font-size:13px;
+  color: #222;
+  margin-top:2px;
+  margin-bottom:5px;
+}
+.submitted{
+  display:none;
+}
+#webform-component--campi-obbligatori p{
+  color: #999;
+}
+#edit-submit{
+  font-weight: bold;
+  border: 1px solid #C69C6D;
+  color: #fff;
+  background:#C69C6D;
+  font-style: normal;
+  cursor: pointer;
+}
+#edit-submit:hover{
+  background:#603913;
+  color: #fff;
+  font-style: normal;
+  border: 1px solid #603913;
+}
+
+#footer {
+  color: #222;
+}
+
+
+/*---PACCHETTI---*/
+
+.pacchetto{
+ border-bottom: 1px solid #ccc;
+ padding-bottom: 20px;
+ margin-bottom: 20px;
+ height: 270px;
+}
+.pacchetto strong{
+ font-size: 13px;
+}
+.pacchetto img{
+float:left;
+padding-right: 20px;
+}
+.pacchetto .descrizione {
+width:370px;
+height: 269px;
+float:right;
+}
